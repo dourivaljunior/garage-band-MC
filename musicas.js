@@ -3,17 +3,17 @@ const musicData = [
         id: 1,
         nome: "Gita",
         artista: "Raul Seixas",
-        mp3: "gita-raul-seixas.mp3",
-        backingTrack: "gita-raul-seixas-bt.mp3",
-        txt: "gita-raul-seixas.txt"
+        mp3: "musicas/gita-raul-seixas.mp3",
+        backingTrack: "musicas/gita-raul-seixas-bt.mp3",
+        txt: "letras/gita-raul-seixas.txt"
     },
     {
         id: 2,
         nome: "Flores",
         artista: "Titãs",
-        mp3: "flores-titãs.mp3",
-        backingTrack: "flores-titãs-bt.mp3",
-        txt: "flores-titãs.txt"
+        mp3: "musicas/flores-titãs.mp3",
+        backingTrack: "musicas/flores-titãs-bt.mp3",
+        txt: "letras/flores-titãs.txt"
     },
     {
         id: 3,
@@ -135,4 +135,13 @@ const musicData = [
         backingTrack: "o-descobridor-dos-sete-mares-tim-maia-bt.mp3",
         txt: "o-descobridor-dos-sete-mares-tim-maia.txt"
     }
+    {
+        id: 18,
+        nome: "O Astronauta de Mármore",
+        artista: "Nenhum de Nós",
+        mp3: "o-astronauta-de-mármore.txt.mp3",
+        backingTrack: "o-astronauta-de-mármore-bt.mp3",
+        txt: "o-astronauta-de-mármore.txt"
+    }
+    
 ];
