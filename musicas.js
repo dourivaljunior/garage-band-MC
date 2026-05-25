@@ -55,7 +55,7 @@ const musicData = [
         backingTrack: "saia-do-meu-caminho-belchior-bt.mp3",
         txt: "saia-do-meu-caminho-belchior.txt"
     },
-     {
+    {
         id: 8,
         nome: "Meu Erro",
         artista: "Paralamas do Sucesso",
@@ -63,7 +63,7 @@ const musicData = [
         backingTrack: "meu-erro-paralamas-do-sucesso-bt.mp3",
         txt: "meu-erro-paralamas-do-sucesso.txt"
     },
-     {
+    {
         id: 9,
         nome: "Será",
         artista: "Legião Urbana",
@@ -71,7 +71,7 @@ const musicData = [
         backingTrack: "será-legião-urbana-bt.mp3",
         txt: "será-legião-urbana.txt"
     },
-     {
+    {
         id: 10,
         nome: "Sonifera Ilha",
         artista: "Titãs",
@@ -79,7 +79,7 @@ const musicData = [
         backingTrack: "sonifera-ilha-titãs-bt.mp3",
         txt: "sonifera-ilha-titãs.txt"
     },
-     {
+    {
         id: 11,
         nome: "SOS (disco Voador)",
         artista: "Raul Seixas",
