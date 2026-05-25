@@ -3,17 +3,17 @@ const musicData = [
         id: 1,
         nome: "Gita",
         artista: "Raul Seixas",
-        mp3: "musicas/gita-raul-seixas.mp3",
+        mp3: "gita-raul-seixas.mp3",
         backingTrack: "musicas/gita-raul-seixas-bt.mp3",
-        txt: "letras/gita-raul-seixas.txt"
+        txt: "gita-raul-seixas.txt"
     },
     {
         id: 2,
         nome: "Flores",
         artista: "Titãs",
-        mp3: "musicas/flores-titãs.mp3",
+        mp3: "flores-titãs.mp3",
         backingTrack: "musicas/flores-titãs-bt.mp3",
-        txt: "letras/flores-titãs.txt"
+        txt: "flores-titãs.txt"
     },
     {
         id: 3,
