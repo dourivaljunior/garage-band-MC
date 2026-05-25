@@ -134,7 +134,7 @@ const musicData = [
         mp3: "o-descobridor-dos-sete-mares-tim-maia.mp3",
         backingTrack: "o-descobridor-dos-sete-mares-tim-maia-bt.mp3",
         txt: "o-descobridor-dos-sete-mares-tim-maia.txt"
-    }
+    },
     {
         id: 18,
         nome: "O Astronauta de Mármore",
@@ -142,6 +142,6 @@ const musicData = [
         mp3: "o-astronauta-de-mármore.txt.mp3",
         backingTrack: "o-astronauta-de-mármore-bt.mp3",
         txt: "o-astronauta-de-mármore.txt"
-    }
+    },
     
 ];
