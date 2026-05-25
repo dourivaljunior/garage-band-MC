@@ -11,25 +11,25 @@ const musicData = [
         id: 2,
         nome: "Flores",
         artista: "Titãs",
-        mp3: "flores-titãs.mp3",
-        backingTrack: "flores-titãs-bt.mp3",
-        txt: "flores-titãs.txt"
+        mp3: "flores-titas.mp3",
+        backingTrack: "flores-titas-bt.mp3",
+        txt: "flores-titas.txt"
     },
     {
         id: 3,
         nome: "Ana Júlia",
         artista: "Los Hermanos",
-        mp3: "ana-júlia-los-hermanos.mp3",
-        backingTrack: "ana-júlia-los-hermanos-bt.mp3",
-        txt: "ana-júlia-los-hermanos.txt"
+        mp3: "ana-julia-los-hermanos.mp3",
+        backingTrack: "ana-julia-los-hermanos-bt.mp3",
+        txt: "ana-julia-los-hermanos.txt"
     },
     {
         id: 4,
         nome: "Tempo Perdido",
         artista: "Legião Urbana",
-        mp3: "tempo-perdido-legião-urbana.mp3",
-        backingTrack: "tempo-perdido-legião-urbana-bt.mp3",
-        txt: "tempo-perdido-legião-urbana.txt"
+        mp3: "tempo-perdido-legiao-urbana.mp3",
+        backingTrack: "tempo-perdido-legiao-urbana-bt.mp3",
+        txt: "tempo-perdido-legiao-urbana.txt"
     },
     {
         id: 5,
@@ -43,9 +43,9 @@ const musicData = [
         id: 6,
         nome: "Medo de Avião",
         artista: "Belchior",
-        mp3: "medo-de-avião-belchior.mp3",
-        backingTrack: "medo-de-avião-belchior-bt.mp3",
-        txt: "medo-de-avião-belchior.txt"
+        mp3: "medo-de-aviao-belchior.mp3",
+        backingTrack: "medo-de-aviao-belchior-bt.mp3",
+        txt: "medo-de-aviao-belchior.txt"
     },
     {
         id: 7,
@@ -67,17 +67,17 @@ const musicData = [
         id: 9,
         nome: "Será",
         artista: "Legião Urbana",
-        mp3: "será-legião-urbana.mp3",
-        backingTrack: "será-legião-urbana-bt.mp3",
-        txt: "será-legião-urbana.txt"
+        mp3: "sera-legiao-urbana.mp3",
+        backingTrack: "sera-legiao-urbana-bt.mp3",
+        txt: "sera-legiao-urbana.txt"
     },
     {
         id: 10,
         nome: "Sonifera Ilha",
         artista: "Titãs",
-        mp3: "sonifera-ilha-titãs.mp3",
-        backingTrack: "sonifera-ilha-titãs-bt.mp3",
-        txt: "sonifera-ilha-titãs.txt"
+        mp3: "sonifera-ilha-titas.mp3",
+        backingTrack: "sonifera-ilha-titas-bt.mp3",
+        txt: "sonifera-ilha-titas.txt"
     },
     {
         id: 11,
@@ -91,17 +91,17 @@ const musicData = [
         id: 12,
         nome: "Morena Tropicana",
         artista: "Alceu Valença",
-        mp3: "morena-tropicana-alceu-valença.mp3",
-        backingTrack: "morena-tropicana-alceu-valença-bt.mp3",
-        txt: "morena-tropicana-alceu-valença.txt"
+        mp3: "morena-tropicana-alceu-valenca.mp3",
+        backingTrack: "morena-tropicana-alceu-valenca-bt.mp3",
+        txt: "morena-tropicana-alceu-valenca.txt"
     },
     {
         id: 13,
         nome: "Go Back",
         artista: "Titãs",
-        mp3: "go-back-titãs.mp3",
-        backingTrack: "go-back-titãs-bt.mp3",
-        txt: "go-back-titãs.txt"
+        mp3: "go-back-titas.mp3",
+        backingTrack: "go-back-titas-bt.mp3",
+        txt: "go-back-titas.txt"
     },
     {
         id: 14,
